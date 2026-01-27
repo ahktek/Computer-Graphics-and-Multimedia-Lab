@@ -1,4 +1,4 @@
-# omputer Graphics Lab (OpenGL)
+# Computer Graphics Lab (OpenGL)
 
 **Student:** Ahmmad Abdali Khan  
 **University:** University of Information Technology & Sciences (UITS)  
