@@ -1,0 +1,10 @@
+# Ignore build artifacts (executables)
+*.exe
+*.o
+build/
+
+# Ignore VS Code local settings
+.vscode/
+
+# Ignore system files
+.DS_Store
